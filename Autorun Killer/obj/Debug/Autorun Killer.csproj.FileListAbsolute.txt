@@ -1,0 +1,21 @@
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\bin\Debug\Autorun Killer.exe
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\bin\Debug\Autorun Killer.pdb
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Debug\ResolveAssemblyReference.cache
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Debug\Autorun_Killer.GUI.FarsiAboutBox.resources
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Debug\Autorun_Killer.frmLanguegeSelection.resources
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Debug\Autorun_Killer.GUI.PersianMainForm.resources
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Debug\Autorun_Killer.Properties.Resources.resources
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Debug\Autorun Killer.csproj.GenerateResource.Cache
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Debug\Autorun Killer.exe
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Debug\Autorun Killer.pdb
+K:\Mohammad\My Programs\Autorun Killer\Autorun Killer\obj\Debug\Autorun Killer.exe
+K:\Mohammad\My Programs\Autorun Killer\Autorun Killer\obj\Debug\Autorun Killer.pdb
+K:\Mohammad\My Programs\Autorun Killer\Autorun Killer\obj\Debug\ResolveAssemblyReference.cache
+K:\Mohammad\My Programs\Autorun Killer\Autorun Killer\obj\Debug\Autorun_Killer.GUI.FarsiAboutBox.resources
+K:\Mohammad\My Programs\Autorun Killer\Autorun Killer\obj\Debug\Autorun_Killer.frmLanguegeSelection.resources
+K:\Mohammad\My Programs\Autorun Killer\Autorun Killer\obj\Debug\Autorun_Killer.GUI.PersianMainForm.resources
+K:\Mohammad\My Programs\Autorun Killer\Autorun Killer\obj\Debug\Autorun_Killer.Properties.Resources.resources
+K:\Mohammad\My Programs\Autorun Killer\Autorun Killer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\Mohammad\My Programs\Autorun Killer\Autorun Killer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\Mohammad\My Programs\Autorun Killer\Autorun Killer\bin\Debug\Autorun Killer.exe
+K:\Mohammad\My Programs\Autorun Killer\Autorun Killer\bin\Debug\Autorun Killer.pdb

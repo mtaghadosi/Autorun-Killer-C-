@@ -1,0 +1,10 @@
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\bin\Release\Autorun Killer.exe
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\bin\Release\Autorun Killer.pdb
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Release\ResolveAssemblyReference.cache
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Release\Autorun_Killer.GUI.FarsiAboutBox.resources
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Release\Autorun_Killer.frmLanguegeSelection.resources
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Release\Autorun_Killer.GUI.PersianMainForm.resources
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Release\Autorun_Killer.Properties.Resources.resources
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Release\Autorun Killer.csproj.GenerateResource.Cache
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Release\Autorun Killer.exe
+E:\Working And Private Area\My Programs\Autorun Killer\Autorun Killer\obj\Release\Autorun Killer.pdb
