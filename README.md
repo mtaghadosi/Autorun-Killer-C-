@@ -1,4 +1,4 @@
-# Autorun-Killer-C-
+# Autorun-Killer-C#
 <h1>This is a Autorun virus killer and cleaner wrote in c# </h1>
 
 <h3>Wirited in Visual Studio</h3> 
